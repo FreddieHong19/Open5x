@@ -1,0 +1,2 @@
+
+G1 X0 Y0 F2000		; Position the endstop above the bed centre

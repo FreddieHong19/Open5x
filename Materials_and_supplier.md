@@ -12,3 +12,5 @@ This a list of materials and suppliers used for converting Prusa i3 to 5-axis 3D
 | 8mm shaft collar | RS Online, UK | https://uk.rs-online.com/web/ |
 | Linear Bearing Slider Blocks | Ooznest, UK | https://ooznest.co.uk/product/linear-bearing-slider-blocks/ |
 | Slewing ring bearing | Igus, UK | https://www.igus.co.uk/product/661?artNr=PRT-02-20-LC |
+| Duet2 Wifi | Duet3D, UK | https://www.duet3d.com/DuetWifi |
+| Duex5 | Duet3D , UK | https://www.duet3d.com/Duex5 |

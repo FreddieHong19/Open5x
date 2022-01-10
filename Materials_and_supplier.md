@@ -1,6 +1,4 @@
-This a list of materials and suppliers used in TCB
-
-
+This a list of materials and suppliers used for converting Prusa i3 to 5-axis 3D printer
 
 
 | Name  | Supplier | Link |

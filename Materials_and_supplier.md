@@ -15,3 +15,4 @@ This a list of materials and suppliers used for converting Prusa i3 to 5-axis 3D
 | Slewing ring bearing | Igus, UK | https://www.igus.co.uk/product/661?artNr=PRT-02-20-LC |
 | Duet2 Wifi | Duet3D, UK | https://www.duet3d.com/DuetWifi |
 | Duex5 | Duet3D , UK | https://www.duet3d.com/Duex5 |
+| Universal 8mm Pololu mounting hub| PIMORONI , UK | https://shop.pimoroni.com/ |

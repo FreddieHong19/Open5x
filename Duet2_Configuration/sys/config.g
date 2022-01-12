@@ -1,4 +1,4 @@
-; Fred_Prusa_20211118_5axis
+;Open5x_20211118_5axis
 
 
 ; General preferences

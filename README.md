@@ -16,3 +16,6 @@ Research mateiral shared in this repository include:
 4. Instructions for hardware assemnbly
 
 5. Grasshopper definition and Rhino template for 5-axis Slicing.
+
+
+![](images/5_axis_Prusa.jpg)

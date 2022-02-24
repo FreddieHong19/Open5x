@@ -19,3 +19,7 @@ Research mateiral shared in this repository include:
 
 
 ![](images/5_axis_Prusa.jpg)
+
+Link to the video:
+
+https://youtu.be/x9rG15qrDIE

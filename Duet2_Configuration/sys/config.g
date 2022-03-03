@@ -1,15 +1,15 @@
-;Open5x_20211118_5axis
-
+;Open5x_ver_20211118
 
 ; General preferences
 G90                                         ; Send absolute coordinates...
 M83                                         ; ...but relative extruder moves
 M555 P2 						; Set firmware compatibility to look like Marlin
 
+;Kinematics Profile for 5-axis (cartesian)
 M669 K0 X1:0:0:0:0 Y0:-1:0:0:0 Z0:0:1:0:0 U0:0:0:1:0 V0:0:0:0:1
 
 ; Network
-M550 P"5-Axis Desktop 3DP"                        ; Set machine name
+M550 P"Open5x"                        ; Set machine name
 M552 S1                                     ; Enable network
 ;M552 S2                                     ; Enable AP
 
@@ -32,7 +32,7 @@ M569 P5 S0				    ; Drive 5 goes anti-clockwise: V Axis
 
 M584 X0 Y1 Z2 E3 U4 V5 ; My Driver Mapping
 
-; Microstepping and Speed
+;Microstepping and Speed
 
 M350 X16 Y16 Z16 E32 U16 V16 I1                 			; Configure microstepping with interpolation
 
@@ -45,7 +45,7 @@ M84 S30                                    			    ; Set idle timeout
 
 
 ;Axis Limit
-M208 X-126:125   Y-92.3:50  Z125:-1 U-200:200 V-12000:12000					;X carriage moves from 0 to 240, Y bed goes from 0 to 185, Z -0.1 to 150
+M208 X-126:125   Y-92.3:50  Z125:-1 U-200:200 V-12000:12000					; Centre of the rotating bed is set to origin 0,0
 M564 H0								; allow unhomed movement
 
 

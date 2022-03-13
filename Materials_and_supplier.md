@@ -16,3 +16,4 @@ This a list of materials and suppliers used for converting Prusa i3 to 5-axis 3D
 | Duet2 Wifi | Duet3D, UK | https://www.duet3d.com/DuetWifi |
 | Duex5 | Duet3D , UK | https://www.duet3d.com/Duex5 |
 | Universal 8mm Pololu mounting hub| PIMORONI , UK | https://shop.pimoroni.com/ |
+| Long Brass Nozzle 0.4mm | nonplanar.xyz, CANADA | https://www.nonplanar.xyz/product-page/0-4mm-non-planar-nozzle |

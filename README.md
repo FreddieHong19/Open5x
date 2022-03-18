@@ -27,7 +27,7 @@ https://youtu.be/x9rG15qrDIE
 
 --------
 
-There are still a few areas that need to be improved.
+This is an on-going project and there are still a few areas that need to be improved.
 The next iteration of open5x will include:
 
 Hardware:

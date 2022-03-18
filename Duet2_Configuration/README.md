@@ -6,3 +6,5 @@ https://docs.duet3d.com/en/How_to_guides/Getting_connected/Getting_connected_to_
 
 https://docs.duet3d.com/en/Duet3D_hardware/Duet_2_family/DueX2_and_DueX5
 
+The steps-per-mm need to be adjusted depending on the gear-ratio, microstepping, stepper motor specs that you choose.
+It would be advised to move the axis (especially U and V) at small incremental steps and assess that angle after.

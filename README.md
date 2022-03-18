@@ -25,3 +25,19 @@ Link to the video:
 https://youtu.be/x9rG15qrDIE
 
 
+--------
+
+There are still a few areas that need to be improved.
+The next iteration of open5x will include:
+
+Hardware:
+1. Auto-leveling the tilt on U-axis (so the printing bed is perfeclty in parall with the X-axis) currently this is achieved through digital sprit level + manual G92 U0
+2. Part cooling fan will be re-designed so that air is blown on to the end of the long nozzle but without reducing the contact angle.
+3. Endstop on Z-axis to avoid manual bed leveling.
+
+Software:
+1. Grasshopper definition is going through series of iteration to reduce the computing time of slicing.
+2. There are still few remaining erors in the currrent version which is being worked on.
+3. Eventually we would aim to have stand-alone opensource slicer for 5-axis.
+
+

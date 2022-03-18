@@ -3,4 +3,5 @@ To do this double click the component called 'Simulation' and inside right-click
 Once complete this should show up in the simulation.
 
 Please note that the current version is the developing version. and more stable versions are aimed to be relased very soon.
-3 Different toolpath generator will be relased focusing at 1) Supportless 3D printing 2) Conformal Surface finish 3) Curve based conformal patterning
+3 Different toolpath generator will be relased focusing at 1) Supportless 3D printing 2) Conformal Surface finish 3) Curve based conformal patterning.
+There will be video guides for each toolpath generators

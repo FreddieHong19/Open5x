@@ -7,3 +7,10 @@ Once complete this should show up in the simulation.
 Please note that the current version is the developing version. and more stable versions are aimed to be relased very soon.
 3 Different toolpath generator will be relased focusing at 1) Supportless 3D printing 2) Conformal Surface finish 3) Curve based conformal patterning.
 There will be video guides for each toolpath generators
+
+This grasshopper uses two library below:
+
+https://www.food4rhino.com/en/app/heteroptera : To find a centroid of a 3D geometry
+
+https://docs.microsoft.com/en-us/dotnet/api/system.linq?view=net-6.0 : To collect max/min values in list
+

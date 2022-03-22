@@ -1,5 +1,8 @@
 # 5-axis 3D printer
 
+Full length article can be found in below:
+https://arxiv.org/abs/2202.11426
+
 This is a github repository for Open5x: 5-axis 3D printer
 
 

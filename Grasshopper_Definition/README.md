@@ -14,3 +14,13 @@ https://www.food4rhino.com/en/app/heteroptera : To find a centroid of a 3D geome
 
 https://docs.microsoft.com/en-us/dotnet/api/system.linq?view=net-6.0 : To collect max/min values in list
 
+
+Update
+-----
+
+2022-03-22: 
+2022_03_22_open5x_supportless_surface_Lite 
+*light version of slicing, shorter computation. Limited to single perimeter and no_infill.
+Testes on 
+supportless_Sample_2
+supportless_sample_3_spiral

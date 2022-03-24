@@ -3,6 +3,9 @@
 Full length article can be found in below:
 https://arxiv.org/abs/2202.11426
 
+Link to the videos:
+https://www.youtube.com/watch?v=C3vKHuxUmjc&list=PLSqgj9-nhHAx7sJzOzrpPwBRhMIwGWn0z&index=4
+
 This is a work-in-progress github repository for Open5x: 5-axis 3D printer
 
 
@@ -24,7 +27,6 @@ Research mateiral shared in this repository include:
 ![](images/5_axis_Prusa.jpg)
 
 Link to the video:
-
 https://youtu.be/x9rG15qrDIE
 
 

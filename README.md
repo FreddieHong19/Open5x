@@ -3,7 +3,7 @@
 Full length article can be found in below:
 https://arxiv.org/abs/2202.11426
 
-This is a github repository for Open5x: 5-axis 3D printer
+This is a work-in-progress github repository for Open5x: 5-axis 3D printer
 
 
 This Github repository contains detailed research material of the published CHI 2022 conference paper titled "Open5x: Accessible 5-axis 3D printing and conformal slicing"

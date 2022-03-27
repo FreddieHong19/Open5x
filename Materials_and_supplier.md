@@ -3,7 +3,7 @@ This a list of materials and suppliers used for converting Prusa i3 to 5-axis 3D
 
 | Name  | Supplier | Link |
 | ---|--|--|
-| NEMA 17 Compact Stepper Motor x 2 | E3D, UK  | https://e3d-online.com/products/motors |
+| 0.9 deg NEMA 17 Compact Stepper Motor x 2 | E3D, UK  | https://e3d-online.com/products/motors |
 | GT2 60 Pulley x2 8mm bore  | RepRap World, UK  | https://reprapworld.co.uk/ |
 | GT2 20 Pulley x2 5mm bore for stepper motor shaft | RepRap World, UK | https://reprapworld.co.uk/ |
 | 200-GT2 Belt x1 | Amazon, UK | www.amazon.co.uk/ |

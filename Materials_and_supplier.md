@@ -17,3 +17,13 @@ This a list of materials and suppliers used for converting Prusa i3 to 5-axis 3D
 | Duex5 | Duet3D , UK | https://www.duet3d.com/Duex5 |
 | Universal 8mm Pololu mounting hub| PIMORONI , UK | https://shop.pimoroni.com/ |
 | Long Brass Nozzle 0.4mm | nonplanar.xyz, CANADA | https://www.nonplanar.xyz/product-page/0-4mm-non-planar-nozzle |
+| M3_8mm Hex Bolt x14 (Polou mounting hub, Nema motors)| Accu, UK | www.accu.co.uk |
+| M3_12mm Hex Bolt x2 (Y-axis Belt_holder)| Accu, UK | www.accu.co.uk |
+| M4_14mm flat Bolt x8 (SC8UU)| Accu, UK | www.accu.co.uk |
+| M4_20mm flat Bolt x8 (slewing ring)| Accu, UK | www.accu.co.uk |
+| M5_25mm flat Bolt x3 (slewing ring)| Accu, UK | www.accu.co.uk |
+| M3_lock nut x2 (Y-axis Belt_holder | Accu, UK | www.accu.co.uk |
+| M5 nut x3 (slewing ring) | Accu, UK | www.accu.co.uk |
+| M4 nut x8 (slewing ring) | Accu, UK | www.accu.co.uk |
+| M3x4x5 Threaded inserts x10| Amazon, UK | www.amazon.co.uk |
+

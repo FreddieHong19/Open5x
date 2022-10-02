@@ -50,7 +50,5 @@ The current version of the open5X will be shown at 3D meetup Sweden 2022 March 2
 
 -------
 
-Donation to help this project
-
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=EU5UT7KPFXXUG)
 

@@ -42,7 +42,7 @@ Hardware:
 
 Software:
 1. Grasshopper definition is going through series of iteration to reduce the computing time of slicing.
-2. There are still few remaining erors in the currrent version which is being worked on.
+2. There are still few remaining errors in the currrent version which is being worked on.
 3. Eventually we would aim to have stand-alone opensource slicer for 5-axis.
 
 The current version of the open5X will be shown at 3D meetup Sweden 2022 March 26-27

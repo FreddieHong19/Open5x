@@ -50,7 +50,7 @@ The current version of the open5X will be shown at East Coast RepRap Festival at
 
 -------
 
-Support this project!
+
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=EU5UT7KPFXXUG)
 

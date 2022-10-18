@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=C3vKHuxUmjc&list=PLSqgj9-nhHAx7sJzOzrpPwBRhMIwGW
 This is a work-in-progress github repository for Open5x: 5-axis 3D printer
 
 
+
 This Github repository contains detailed research material of the published CHI 2022 conference paper titled "Open5x: Accessible 5-axis 3D printing and conformal slicing"
 
 Research mateiral shared in this repository include:
@@ -45,8 +46,9 @@ Software:
 2. There are still few remaining errors in the currrent version which is being worked on.
 3. Eventually we would aim to have stand-alone opensource slicer for 5-axis.
 
-The current version of the open5X will be shown at East Coast RepRap Festival at Maryland, 8-9th October 2022
+The current version of the open5X was shown at East Coast RepRap Festival at Maryland, 8-9th October 2022
 
+Major update is expected to be on March 2023!
 
 -------
 

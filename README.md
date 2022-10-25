@@ -8,8 +8,11 @@ https://www.youtube.com/watch?v=C3vKHuxUmjc&list=PLSqgj9-nhHAx7sJzOzrpPwBRhMIwGW
 
 This is a work-in-progress github repository for Open5x: 5-axis 3D printer
 
+
 There are other amazing works happneing around 5-axis 3D printing.
-Please refer to Other_works.md for detail
+Please refer to [a relative link](Other_works.md)
+
+
 
 This Github repository contains detailed research material of the published CHI 2022 conference paper titled "Open5x: Accessible 5-axis 3D printing and conformal slicing"
 

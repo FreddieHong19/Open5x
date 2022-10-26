@@ -10,7 +10,7 @@ This is a work-in-progress github repository for Open5x: 5-axis 3D printer
 
 
 There are other amazing works happneing around 5-axis 3D printing.
-Please refer to [Other works](Other_works.md)
+Please refer to [Other works](Other_works.md) to add your multi-axis project submit a pull request and it will be added onto the list
 
 
 

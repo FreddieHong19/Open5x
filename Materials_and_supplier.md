@@ -13,8 +13,10 @@ This a list of materials and suppliers used for converting Prusa i3 to 5-axis 3D
 | 8mm shaft collar | RS Online, UK | https://uk.rs-online.com/web/ |
 | Linear Bearing Slider Blocks SC8UU | Ooznest, UK | https://ooznest.co.uk/product/linear-bearing-slider-blocks/ |
 | Slewing ring bearing | Igus, UK | https://www.igus.co.uk/product/661?artNr=PRT-02-20-LC |
-| Duet2 Wifi | Duet3D, UK | https://www.duet3d.com/DuetWifi |
-| Duex5 | Duet3D , UK | https://www.duet3d.com/Duex5 |
+| Duet 3 Mini 5+ | Duet3D, UK | https://duet3d.com/duet3mini5plus |
+| Duet 3 Mini 2+ | Duet3D, UK | https://duet3d.com/duet3expansionmini2plus|
+| (alternative to mini 5+) Duet2 Wifi | Duet3D, UK | https://www.duet3d.com/DuetWifi |
+| (alternative with Duet 2 Wifi) Duex5 | Duet3D , UK | https://www.duet3d.com/Duex5 |
 | Universal 8mm Pololu mounting hub| PIMORONI , UK | https://shop.pimoroni.com/ |
 | Long Brass Nozzle 0.4mm | nonplanar.xyz, CANADA | https://www.nonplanar.xyz/product-page/0-4mm-non-planar-nozzle |
 | M3_8mm Hex Bolt x14 (Polou mounting hub, Nema motors)| Accu, UK | www.accu.co.uk |

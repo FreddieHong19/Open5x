@@ -50,9 +50,6 @@ Software:
 2. There are still few remaining errors in the current version which is being worked on.
 3. Eventually we would aim to have stand-alone opensource slicer for 5-axis.
 
-The current version of the open5X was shown at the East Coast RepRap Festival in Maryland on the 8 & 9th of October 2022
-
-A major update is expected to be released in March 2023!
 
 -------
 

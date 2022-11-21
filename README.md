@@ -1,20 +1,12 @@
 # 5-axis 3D printer
 
-Full length article can be found in below:
-https://arxiv.org/abs/2202.11426
-
-Link to the videos:
-https://www.youtube.com/watch?v=C3vKHuxUmjc&list=PLSqgj9-nhHAx7sJzOzrpPwBRhMIwGWn0z&index=4
-
 This is a work-in-progress GitHub repository for Open5x: 5-axis 3D printer
-
 
 There are other amazing works happening around 5-axis 3D printing.
 Please refer to [Other works](Other_works.md) to add your multi-axis project submit a pull request and it will be added onto the list
 
-
-
-This GitHub repository contains detailed research material of the published CHI 2022 conference paper titled "Open5x: Accessible 5-axis 3D printing and conformal slicing"
+The most recent iteration of the open5x has been implmented on 1) Prusa i3, and 2) E3D Toolchanger.
+Please check out #open5x, especially @Brendonbuild 's work on open5x on twitter!
 
 Research material shared in this repository include:
 
@@ -54,5 +46,10 @@ Software:
 -------
 
 
+Full length article can be found in below:
+https://arxiv.org/abs/2202.11426
+
+Link to the videos:
+https://www.youtube.com/watch?v=C3vKHuxUmjc&list=PLSqgj9-nhHAx7sJzOzrpPwBRhMIwGWn0z&index=4
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=EU5UT7KPFXXUG)

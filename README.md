@@ -7,6 +7,7 @@ Please refer to [Other works](Other_works.md) to add your multi-axis project sub
 
 The most recent iteration of the open5x has been implmented on 1) Prusa i3, and 2) E3D Toolchanger.
 Please check out #open5x, especially @Brendonbuild 's work on open5x on twitter!
+There is also ongoing development of free to employ non-planar and 5-axis G-code producer called fullcontrol.xyz by Andy Gleadall
 
 Research material shared in this repository include:
 

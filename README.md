@@ -31,7 +31,7 @@ Link to the video:
 https://youtu.be/x9rG15qrDIE
 
 ![](3D_Model/E3D_ToolChanger/mechanical_parts.jpg)
-[](3D_Model/E3D_ToolChanger/README.MD
+[](3D_Model/E3D_ToolChanger/README.md
 --------
 
 This is an on-going project repo for Open5x

@@ -5,7 +5,10 @@ This is a work-in-progress GitHub repository for Open5x: 5-axis 3D printer
 There are other amazing works happening around 5-axis 3D printing.
 Please refer to [Other works](Other_works.md) to add your multi-axis project submit a pull request and it will be added onto the list
 
-The most recent iteration of the open5x has been implmented on 1) Prusa i3, and 2) E3D Toolchanger.
+The most recent iteration of the open5x has been implmented on E3D's toolchanger by @Brendonbuild. Stp files for design can be found in this repository.
+
+1) Prusa i3, and 2) E3D Toolchanger.
+
 Please check out #open5x, especially @Brendonbuild 's work on open5x on twitter!
 There is also ongoing development of free to employ non-planar and 5-axis G-code producer called fullcontrol.xyz by Andy Gleadall
 
@@ -30,7 +33,7 @@ https://youtu.be/x9rG15qrDIE
 
 --------
 
-This is an on-going project and there are still a few areas that need to be improved.
+This is an on-going project repo for Open5x
 The next iteration of open5x will include:
 
 Hardware:

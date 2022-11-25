@@ -30,6 +30,7 @@ Research material shared in this repository include:
 Link to the video:
 https://youtu.be/x9rG15qrDIE
 
+![](3D_Model/E3D_ToolChanger/mechanical_parts.jpg)
 
 --------
 

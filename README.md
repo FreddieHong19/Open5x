@@ -59,3 +59,7 @@ Link to the videos:
 https://www.youtube.com/watch?v=C3vKHuxUmjc&list=PLSqgj9-nhHAx7sJzOzrpPwBRhMIwGWn0z&index=4
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=EU5UT7KPFXXUG)
+
+
+## License
+The contents of this repository is under an MIT License, see [LICENSE.md](https://github.com/FreddieHong19/Open5x/blob/main/LICENSE) for more details.

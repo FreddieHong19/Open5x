@@ -1,6 +1,6 @@
-#Abstract 
+# Introduction
 
-Democratising 5-axis 3D printer
+- Democratising 5-axis 3D printer
 
 At present, many people are unable to access 5-axis 3D printing due to the unavailability of hardware and software for personal use. Commercial multi-axis CNC machines and robotic arms are not designed specifically for additive manufacturing, and their firmware does not support standard 3D printing functions. Moreover, even the most affordable 5-axis machine still costs more than $9,945, which makes it prohibitively expensive for personal use. 
 
@@ -8,10 +8,9 @@ On the other hand, community engagement has been the primary driving force behin
 
 Open5x is a project that draws inspiration from open-source machines for personal fabrication. The project demonstrates how a popular off-the-shelf 3-axis 3D printer can be upgraded to 5-axis 3D printing, enabling more independent makers to take advantage of the benefits of conformal 3D printing.
 
+# Update
 
 The most recent iteration of the open5x has been implmented on E3D's toolchanger by @Brendonbuild. Stp files for design can be found in this repository.
-
-1) Prusa i3, and 2) E3D Toolchanger.
 
 Please check out #open5x, especially @Brendonbuild 's work on open5x on twitter!
 There is also ongoing development of free to employ non-planar and 5-axis G-code producer called fullcontrol.xyz by Andy Gleadall

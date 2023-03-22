@@ -1,9 +1,13 @@
-# 5-axis 3D printer
+#Abstract 
 
-This is a work-in-progress GitHub repository for Open5x: 5-axis 3D printer
+Democratising 5-axis 3D printer
 
-There are other amazing works happening around 5-axis 3D printing.
-Please refer to [Other works](Other_works.md) to add your multi-axis project submit a pull request and it will be added onto the list
+At present, many people are unable to access 5-axis 3D printing due to the unavailability of hardware and software for personal use. Commercial multi-axis CNC machines and robotic arms are not designed specifically for additive manufacturing, and their firmware does not support standard 3D printing functions. Moreover, even the most affordable 5-axis machine still costs more than $9,945, which makes it prohibitively expensive for personal use. 
+
+On the other hand, community engagement has been the primary driving force behind the widespread adoption of 3D printing in various industries. Through collaborative development, 3D printers have become more affordable, functional, and user-friendly. Similarly, 5-axis 3D printing could also benefit from the open-source community to accelerate its development and growth.
+
+Open5x is a project that draws inspiration from open-source machines for personal fabrication. The project demonstrates how a popular off-the-shelf 3-axis 3D printer can be upgraded to 5-axis 3D printing, enabling more independent makers to take advantage of the benefits of conformal 3D printing.
+
 
 The most recent iteration of the open5x has been implmented on E3D's toolchanger by @Brendonbuild. Stp files for design can be found in this repository.
 

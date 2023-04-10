@@ -8,24 +8,17 @@ On the other hand, community engagement has been the primary driving force behin
 
 Open5x is a project that draws inspiration from open-source machines for personal fabrication. The project demonstrates how a popular off-the-shelf 3-axis 3D printer can be upgraded to 5-axis 3D printing, enabling more independent makers to take advantage of the benefits of conformal 3D printing.
 
+The Open5x project was first showcased at 13th Annual Conference on Human Computer Interaction Design and Research, and since then has been demonstrated at various makefairs and 3D printing events such as 3D meetup Sweden, ERRF, and FormNext supported by Duet3D
+
+
+Full length article can be found in below:
+https://dl.acm.org/doi/10.1145/3491101.3519782
+
 # Update
 
-The most recent iteration of the open5x has been implmented on E3D's toolchanger by @Brendonbuild. Stp files for design can be found in this repository.
+So far Open5x hardware has been iterated and implemented onto various FDM 3D printers such as Prusai3, Voron and E3D's toolchanger system.
+This conversion system require some of the off the shelf components and 3D printed parts. All of the required parts are listed in this repository.
 
-Please check out #open5x, especially @Brendonbuild 's work on open5x on twitter!
-There is also ongoing development of free to employ non-planar and 5-axis G-code producer called fullcontrol.xyz by Andy Gleadall
-
-Research material shared in this repository include:
-
-1. Materials and supplier list
-
-2. 3D printing files for assembly
-
-3. Settings for 3D printer electronics board (Duet2 + RepRap firmware 3.1.1)
-
-4. Instructions for hardware assembly
-
-5. Grasshopper definition and Rhino template for 5-axis Slicing.
 
 
 ![](images/5_axis_Prusa.jpg)
@@ -38,25 +31,9 @@ https://youtu.be/x9rG15qrDIE
 
 --------
 
-This is an on-going project repo for Open5x
-The next iteration of open5x will include:
-
-Hardware:
-1. Auto-levelling the tilt on U-axis (so the printing bed is perfectly in parallel with the X-axis) currently this is achieved through digital sprit level + manual G92 U0
-2. Part cooling fan will be re-designed so that air is blown on to the end of the long nozzle but without reducing the contact angle.
-3. Endstop on Z-axis to avoid manual bed levelling.
-
-Software:
-1. Grasshopper definition is going through series of iteration to reduce the computing time of slicing.
-2. There are still few remaining errors in the current version which is being worked on.
-3. Eventually we would aim to have stand-alone opensource slicer for 5-axis.
-
-
 -------
 
 
-Full length article can be found in below:
-https://arxiv.org/abs/2202.11426
 
 Link to the videos:
 https://www.youtube.com/watch?v=C3vKHuxUmjc&list=PLSqgj9-nhHAx7sJzOzrpPwBRhMIwGWn0z&index=4

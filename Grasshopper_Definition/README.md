@@ -19,6 +19,5 @@ To simulate the movement, the 3D file of the rotary gantry (e.g. Prusa_5axis_pro
 
 # Update
 
-The latest ieration of the Grasshopper script is from 2023-04-10
 
 

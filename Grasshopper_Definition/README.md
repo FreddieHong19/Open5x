@@ -1,4 +1,5 @@
-#Introduction
+# Introduction
+
 This folder contains the necessary files for using Grasshopper to create 5-axis G-code.
 Grasshopper is a visual scripting extension that is integrated into a popular 3D CAD software called Rhino 3D.
 Unfortunately, Rhino 3D is not a free software, but a 90 days fully functioning free-trial version is provided.
@@ -14,5 +15,7 @@ https://www.food4rhino.com/en/app/heteroptera : To find a centroid of a 3D geome
 https://docs.microsoft.com/en-us/dotnet/api/system.linq?view=net-6.0 : To collect max/min values in list
 
 
-#Update
+# Update
+
+
 

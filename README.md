@@ -11,7 +11,7 @@ Open5x is a project that draws inspiration from open-source machines for persona
 The Open5x project was first showcased at 13th Annual Conference on Human Computer Interaction Design and Research, and since then has been demonstrated at various makefairs and 3D printing events such as 3D meetup Sweden, ERRF, and FormNext supported by Duet3D
 
 
-Full length article can be found in below:
+Full length article:
 https://dl.acm.org/doi/10.1145/3491101.3519782
 
 

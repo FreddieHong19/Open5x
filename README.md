@@ -14,29 +14,17 @@ The Open5x project was first showcased at 13th Annual Conference on Human Comput
 Full length article can be found in below:
 https://dl.acm.org/doi/10.1145/3491101.3519782
 
+
+Link to the video:
+https://youtu.be/x9rG15qrDIE
+
 # Update
 
 So far Open5x hardware has been iterated and implemented onto various FDM 3D printers such as Prusai3, Voron and E3D's toolchanger system.
 This conversion system require some of the off the shelf components and 3D printed parts. All of the required parts are listed in this repository.
 
 
-
-![](images/5_axis_Prusa.jpg)
-
-Link to the video:
-https://youtu.be/x9rG15qrDIE
-
-![](3D_Model/E3D_ToolChanger/mechanical_parts.jpg)
-[More information](3D_Model/E3D_ToolChanger/README.md)
-
---------
-
 -------
-
-
-
-Link to the videos:
-https://www.youtube.com/watch?v=C3vKHuxUmjc&list=PLSqgj9-nhHAx7sJzOzrpPwBRhMIwGWn0z&index=4
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=EU5UT7KPFXXUG)
 

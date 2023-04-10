@@ -8,7 +8,7 @@ On the other hand, community engagement has been the primary driving force behin
 
 Open5x is a project that draws inspiration from open-source machines for personal fabrication. The project demonstrates how a popular off-the-shelf 3-axis 3D printer can be upgraded to 5-axis 3D printing, enabling more independent makers to take advantage of the benefits of conformal 3D printing.
 
-The Open5x project was first showcased at 13th Annual Conference on Human Computer Interaction Design and Research, and since then has been demonstrated at various makefairs and 3D printing events such as 3D meetup Sweden, ERRF, and FormNext supported by Duet3D
+The Open5x project was first showcased at the 13th Annual Conference on Human Computer Interaction Design and Research, and since then, has been demonstrated at various make fairs and 3D printing events such as 3D meetup Sweden, ERRF, and FormNext supported by Duet3D.
 
 
 Full length article:
@@ -20,8 +20,8 @@ https://youtu.be/x9rG15qrDIE
 
 # Update
 
-So far Open5x hardware has been iterated and implemented onto various FDM 3D printers such as Prusai3, Voron and E3D's toolchanger system.
-This conversion system require some of the off the shelf components and 3D printed parts. All of the required parts are listed in this repository.
+So far, Open5x hardware has been iterated and implemented onto various FDM 3D printers such as Prusai3, Voron and E3D's toolchanger system.
+This conversion system requires some of the off-the-shelf components and 3D-printed parts. All of the necessary parts are listed in this repository.
 
 
 -------

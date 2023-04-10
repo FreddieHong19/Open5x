@@ -34,18 +34,18 @@ M584 X0 Y1 Z2 E3 U4 V5 ; My Driver Mapping
 
 ;Microstepping and Speed
 
-M350 X16 Y16 Z16 E32 U16 V16 I1                 			; Configure microstepping with interpolation
+M350 X16 Y16 Z16 E32 A16 B16 I1                 			; Configure microstepping with interpolation
 
-M92 X100.00 Y100.00 Z400.00 E280.00 U26.667 V35.556 		    ; Set steps per mm and steps per degree
-M566 X480.00 Y480.00 Z24.00 E270.00 U480.00 V480.00 P1     	    ; Set maximum instantaneous speed changes (mm/min)
-M203 X12000.00 Y12000.00 Z750.00 E1500.00 U5000.00 V12000.00  	    ; Set maximum speeds (mm/min)
-M201 X1000.00 Y1000.00 Z1000.00 E1000.00 U1000.00 V1000.00   	    ; Set accelerations (mm/s^2)
-M906 X620.00 Y620.00 Z560.00 E700.00 U1300.00 V1300.00 I10            ; Set motor currents (mA) and motor idle factor in percent
+M92 X100.00 Y100.00 Z400.00 E280.00 A26.667 B35.556 		    ; Set steps per mm and steps per degree
+M566 X480.00 Y480.00 Z24.00 E270.00 A480.00 B480.00 P1     	    ; Set maximum instantaneous speed changes (mm/min)
+M203 X12000.00 Y12000.00 Z750.00 E1500.00 A5000.00 B12000.00  	    ; Set maximum speeds (mm/min)
+M201 X1000.00 Y1000.00 Z1000.00 E1000.00 A1000.00 B1000.00   	    ; Set accelerations (mm/s^2)
+M906 X620.00 Y620.00 Z560.00 E700.00 A1300.00 B1300.00 I10            ; Set motor currents (mA) and motor idle factor in percent
 M84 S30                                    			    ; Set idle timeout
 
 
 ;Axis Limit
-M208 X-126:125   Y-92.3:50  Z125:-1 U-200:200 V-12000:12000					; Centre of the rotating bed is set to origin 0,0
+M208 X-126:125   Y-92.3:50  Z125:-1 A-200:200 B-12000:12000					; Centre of the rotating bed is set to origin 0,0
 M564 H0								; allow unhomed movement
 
 

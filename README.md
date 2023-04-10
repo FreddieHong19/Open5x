@@ -23,6 +23,7 @@ https://youtu.be/x9rG15qrDIE
 So far, Open5x hardware has been iterated and implemented onto various FDM 3D printers such as Prusai3, Voron and E3D's toolchanger system.
 This conversion system requires some of the off-the-shelf components and 3D-printed parts. All of the necessary parts are listed in this repository.
 
+The latest iteration of Open5X is running on E3D's toolchanger and Voron, developed by @BrendonBuilds 
 
 -------
 

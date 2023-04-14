@@ -1,6 +1,6 @@
 # Introduction
 
-Democratising 5-axis 3D printer
+Democratising 5-axis 3D printing
 
 At present, many people are unable to access 5-axis 3D printing due to the unavailability of hardware and software for personal use. Commercial multi-axis CNC machines and robotic arms are not designed specifically for additive manufacturing, and their firmware does not support standard 3D printing functions. Moreover, even the most affordable 5-axis machine still costs more than $9,945, which makes it prohibitively expensive for personal use. 
 

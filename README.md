@@ -28,8 +28,5 @@ The latest iteration of Open5X is running on E3D's toolchanger and Voron, develo
 
 -------
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=EU5UT7KPFXXUG)
-
-
 ## License
 The contents of this repository is under an MIT License, see [LICENSE.md](https://github.com/FreddieHong19/Open5x/blob/main/LICENSE) for more details.

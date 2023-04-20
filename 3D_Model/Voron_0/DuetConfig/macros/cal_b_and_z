@@ -1,0 +1,56 @@
+; just in case, reset switches
+M558 P8 C"!io3.in" H2.5 F360 T40000
+M574 X1 S1 P"!io1.in"
+M574 Y1 S1 P"!io2.in"
+M558 P8 C"!io0.in" H2.5 F360 T40000
+
+g1 c0 x45 y0 f12000
+m98 p"/macros/probe_then_lift"
+var rightZ = move.axes[2].machinePosition
+
+g1 c-180 x-45 y0 f12000
+m98 p"/macros/probe_then_lift"
+var leftZ = move.axes[2].machinePosition
+
+echo var.rightZ
+echo var.leftZ
+
+if(var.leftZ < var.rightZ)
+	while(var.leftZ < var.rightZ)
+		G91
+		G1 B0.05
+		G92 B0
+		G90
+				
+		g1 c0 x45 y0 f12000
+		m98 p"/macros/probe_then_lift"
+		set var.rightZ = move.axes[2].machinePosition
+
+		g1 c-180 x-45 y0 f12000
+		m98 p"/macros/probe_then_lift"
+		set var.leftZ = move.axes[2].machinePosition
+		
+		echo var.rightZ
+		echo var.leftZ
+else
+	while(var.leftZ > var.rightZ)
+		G91
+		G1 B-0.05
+		G92 B0
+		G90
+				
+		g1 c0 x45 y0 f12000
+		m98 p"/macros/probe_then_lift"
+		set var.rightZ = move.axes[2].machinePosition
+
+		g1 c-180 x-45 y0 f12000
+		m98 p"/macros/probe_then_lift"
+		set var.leftZ = move.axes[2].machinePosition
+		
+		echo var.rightZ
+		echo var.leftZ
+
+echo var.rightZ
+echo var.leftZ
+
+G92 Z0.95

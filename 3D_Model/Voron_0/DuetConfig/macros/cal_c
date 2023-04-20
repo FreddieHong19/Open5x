@@ -1,0 +1,62 @@
+; just in case, reset switches
+M558 P8 C"!io3.in" H2.5 F360 T40000
+M574 Y1 S1 P"!io2.in"
+M574 X1 S1 P"!io0.in"
+
+G1 X50 Y10 Z10 B0 C0 F60000
+G1 X50 Y10 Z-5 B0 C0 F60000
+G1 X0 H4 F300
+
+var topValue = move.axes[0].machinePosition
+
+G1 X50 Y-10 Z-5 B0 C0 F60000
+
+G1 X0 H4 F300
+var bottomValue = move.axes[0].machinePosition
+
+G1 X50 Y-10 Z-5 B0 C0 F60000
+
+echo var.topValue
+echo var.bottomValue
+
+if(var.bottomValue > var.topValue)
+	while(var.bottomValue > var.topValue)
+		G91
+		G1 C0.05
+		G92 C0
+		G90
+		
+		G1 X50 Y10 Z-5 B0 C0 F60000
+		G1 X0 H4 F300
+
+		set var.topValue = move.axes[0].machinePosition
+		
+		G1 X50 Y-10 Z-5 B0 C0 F60000
+
+		G1 X0 H4 F300
+		set var.bottomValue = move.axes[0].machinePosition
+		
+		G1 X50 Y-10 Z-5 B0 C0 F60000
+else
+	while(var.bottomValue < var.topValue)
+		G91
+		G1 C-0.05
+		G92 C0
+		G90
+		
+		G1 X50 Y10 Z-5 B0 C0 F60000
+		G1 X0 H4 F300
+
+		set var.topValue = move.axes[0].machinePosition
+		
+		G1 X50 Y-10 Z-5 B0 C0 F60000
+
+		G1 X0 H4 F300
+		set var.bottomValue = move.axes[0].machinePosition
+		
+		G1 X50 Y-10 Z-5 B0 C0 F60000		
+		
+G1 X50 Y-10 Z10 B0 C0 F60000
+
+echo var.topValue
+echo var.bottomValue

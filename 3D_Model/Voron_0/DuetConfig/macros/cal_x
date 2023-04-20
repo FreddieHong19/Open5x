@@ -1,0 +1,28 @@
+; just in case, reset switches
+M558 P8 C"!io3.in" H2.5 F360 T40000
+M574 Y1 S1 P"!io2.in"
+M574 X1 S1 P"!io0.in"
+
+G1 X50 Y0 Z10 B0 C0 F60000
+G1 X50 Y0 Z-5 B0 C0 F60000
+G1 X0 H4 F300
+
+var rightValue = move.axes[0].machinePosition
+
+G1 X50 Y0 Z-5 B0 C0 F60000
+G1 X50 Y0 Z10 B0 C0 F60000
+
+G1 X-50 Y0 Z10 B0 C180 F60000
+G1 X-50 Y0 Z-5 B0 C180 F60000
+G1 X0 H4 F300
+var leftValue = move.axes[0].machinePosition
+
+G1 X-50 Y0 Z-5 B0 C180 F60000
+G1 X-50 Y0 Z10 B0 C180 F60000
+
+echo var.rightValue
+echo var.leftValue
+
+var newX = (var.rightValue + var.leftValue) / 2
+G1 X{var.newX}
+G92 X0

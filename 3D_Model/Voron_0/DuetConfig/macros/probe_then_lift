@@ -1,0 +1,10 @@
+; just in case, reset switches
+M558 P8 C"!io3.in" H2.5 F360 T40000
+M574 X1 S1 P"!io1.in"
+M574 Y1 S1 P"!io2.in"
+M558 P8 C"!io0.in" H2.5 F360 T40000
+
+G91
+G1 Z-70 F300 H4
+G1 Z5
+G90

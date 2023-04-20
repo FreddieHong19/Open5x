@@ -1,0 +1,16 @@
+M98 p"/macros/cal_b_and_z"
+
+;M104 T0 S280
+
+M98 p"/macros/cal_c"
+
+M98 p"/macros/cal_x"
+M98 p"/macros/cal_x"
+
+M98 p"/macros/cal_y"
+M98 p"/macros/cal_y"
+
+M98 p"/macros/cal_b_and_z"
+
+G1 X-50 Y50 Z10 B0 C0 F60000
+T0
